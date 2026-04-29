@@ -8,11 +8,11 @@
     }
 
     section#login {
-        width: 80vw;
-        width: 280px;
+        height: 80vh;
+        width: 90vw;
     }
 
-    section#login > section#imagem { 
+    section#login > div#imagem { 
         float: left;
         width: 30%;
         height: 100%;
